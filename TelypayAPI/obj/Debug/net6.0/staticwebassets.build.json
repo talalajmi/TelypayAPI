@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bgo0MvyWnEowgQaLEcqgyxLkHMOIHsSMJBhNpZun3ig=",
+  "Source": "TelypayAPI",
+  "BasePath": "_content/TelypayAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
